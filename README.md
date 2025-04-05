@@ -1,1 +1,12 @@
-1
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a,b;                                // описание переменных
+    cout <<"Введите 2 целых числа" << endl; // оператор вывода
+    cin >> a >> b;                          // оператор ввода
+    cout << "Их сумма равна" <<a + b;       // оператор вывода
+    return 0;
+
+} 
