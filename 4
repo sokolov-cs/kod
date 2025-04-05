@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    double i = 10;
+    cout << i << endl;
+    cout << showpoint << i << endl;
+    return 0;
+}
